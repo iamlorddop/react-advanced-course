@@ -3,7 +3,7 @@
 
 React Advanced Course 2022 is an educational project.
 
-The project is made with HTML5, CSS3, TypeScript, React Native, Tailwind, Redux Toolkit, RTKQuery.
+The project is made with HTML5, CSS3, TypeScript, React Native, Tailwind, Redux Toolkit, RTKQuery, React router dom..
 
 ## Getting Started with Create React App
 
