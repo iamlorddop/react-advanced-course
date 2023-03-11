@@ -34,6 +34,7 @@ export function RepoCard({ repo }: { repo: IRepo }) {
                 { !isFav && <button className="py-2 px-4 bg-yellow-400 rounded hover:shadow-md transition-all mr-2 mt-2" onClick={addToFavourite}>Add</button>}
 
                 { isFav && <button className="py-2 px-4 bg-red-400 rounded hover:shadow-md transition-all" onClick={removeFromFavourite}>Remove</button>}
+
             </a>
         </div>
     )
